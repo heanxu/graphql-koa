@@ -1,0 +1,22 @@
+{
+  "name": "graphql-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "wufazhucexujingjing@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.5.4",
+    "co-body": "^2.0.0",
+    "graphql": "^0.2.4",
+    "koa": "^1.0.0",
+    "koa-qs": "^2.0.0",
+    "koa-router": "^5.1.1",
+    "mongoose": "^4.0.6",
+    "superagent": "^3.0.0"
+  }
+}
